@@ -2,4 +2,9 @@
 *.s#*
 *.job
 *.pro
-
+*.ger
+*.gpi
+*.dri
+*.xln
+*.mpd
+*.l#*
